@@ -24,6 +24,18 @@ Identify how annual members and casual riders use Cyclistic bikes differently an
 
 ---
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- SQL Querying
+- Business Analysis
+- Data Visualization
+- Data Storytelling
+- Business Recommendations
+
+---
+
 ## Repository Contents
 
 - 📄 Cyclistic_Case_Study.pdf – Complete project report
@@ -85,5 +97,13 @@ Annual members show clear peaks during commuting hours, whereas casual riders di
 ## Author
 
 Maria Capdevila
+
+---
+
+## Full Report
+
+For a detailed explanation of the analysis, methodology and recommendations, see the complete report:
+
+📄 [Cyclistic Case Study](Cyclistic_Case_Study.pdf)
 
 Google Data Analytics Professional Certificate
