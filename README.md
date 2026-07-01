@@ -48,9 +48,37 @@ Identify how annual members and casual riders use Cyclistic bikes differently an
 
 ---
 
-## Dashboard
+## Dashboard Preview
 
-Visualizations were created using Looker Studio and are included in the project report.
+### Total Members vs Casual Riders
+
+![Total Members vs Casual Riders](images/total_member_vs_casual.png)
+
+This chart provides an overview of the distribution of rides between annual members and casual riders, establishing the context for the subsequent analysis.
+
+---
+
+### Average Ride Length
+
+![Average Ride Length](images/average_ride_length_minutes.png)
+
+Casual riders take considerably longer rides on average than annual members, suggesting that they primarily use the service for leisure rather than commuting.
+
+---
+
+### Trips by Day of Week
+
+![Trips by Day of Week](images/trips_by_day_of_week.png)
+
+Casual riders are more active during weekends, while annual members maintain a more consistent riding pattern throughout the week, reflecting regular commuting habits.
+
+---
+
+### Trips by Hour
+
+![Trips by Hour](images/trips_by_hour.png)
+
+Annual members show clear peaks during commuting hours, whereas casual riders display a more even distribution throughout the day, indicating different travel purposes.
 
 ---
 
