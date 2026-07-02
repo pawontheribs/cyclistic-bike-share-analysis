@@ -1,4 +1,5 @@
 # Cyclistic Bike-Share Analysis
+Google Data Analytics capstone project using SQL and Looker Studio.
 
 ## Project Overview
 
