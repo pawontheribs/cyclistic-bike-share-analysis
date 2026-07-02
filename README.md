@@ -103,7 +103,7 @@ Maria Capdevila
 
 ## Full Report
 
-For a detailed explanation of the analysis, methodology and recommendations, see the complete report:
+For a detailed explanation of the analysis, methodology, recommendations and queries used, see the complete report:
 
 📄 [Cyclistic Case Study](Cyclistic_Case_Study.pdf)
 
